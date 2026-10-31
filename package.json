@@ -1,0 +1,7 @@
+{
+  "name": "doodle-district",
+  "private": true,
+  "scripts": {
+    "start": "node serve.cjs"
+  }
+}
